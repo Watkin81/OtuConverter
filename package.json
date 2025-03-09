@@ -1,0 +1,20 @@
+{
+	"name": "otuconverter",
+	"version": "1.0.0",
+	"description": "gaming",
+	"type": "module",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "CreatorCreepy",
+	"license": "ISC",
+	"dependencies": {
+		"@g-js-api/g.js": "^5.1.4",
+		"awesome-logging": "^1.1.4",
+		"circulator": "^1.2.0",
+		"osu-parsers": "^4.1.7",
+		"osu-pp-calculator": "^0.1.7",
+		"osu-standard-stable": "^5.0.0"
+	}
+}
